@@ -2,7 +2,7 @@
 👋Hi,I'm Aakaash M S<br>🚀An ardent developer with hands-on experience in creating dynamic applications and building machine learning and deep learning models.<br>📈I'm excited to collaborate with like-minded professionals who share a vision for pushing boundaries
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/msaakaash/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msaakaash/)
 
 
 # 💻 Tech Stack:
