@@ -7,10 +7,10 @@
 
 [![Aakaash M S Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msaakaash&theme=github-dark)](https://github.com/msaakaash)
 ## Languages and Frameworks
-![Skill Icons](https://skillicons.dev/icons?i=c,cpp,python,java,javascript,haskell,html,css,react,nodejs,tensorflow,pytorch,sklearn,docker,mysql,postgresql,nginx,bash,&theme=dark&perline=15)
+![Skill Icons](https://skillicons.dev/icons?i=c,cpp,python,java,haskell,go,flutter,dart,kotlin,html,css,javascript,react,nodejs,express,vite,tensorflow,pytorch,sklearn,mysql,postgresql,nginx&theme=dark&perline=15)
 
 ## Tools and Techologies
-![Skill Icons](https://skillicons.dev/icons?i=aws,gcp,anaconda,git,github,linux,vscode,androidstudio,idea,eclipse,ubuntu,firebase,stackoverflow&theme=dark&perline=15)
+![Skill Icons](https://skillicons.dev/icons?i=aws,gcp,docker,anaconda,git,github,linux,bash,vscode,androidstudio,idea,eclipse,ubuntu,debian,firebase,stackoverflow&theme=dark&perline=15)
 
 ## Reach Out To Me
 <a href="mailto:msaakaash@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
