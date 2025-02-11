@@ -1,5 +1,7 @@
+
+<h1 align="center">👋 Hi, I'm Aakaash M S  </h1>
+
 ## 💫 About Me:
-👋 Hi, I'm Aakaash M S  
 🚀 An ardent developer with hands-on experience in creating dynamic applications and building machine learning and deep learning models.  
 📈 I'm excited to collaborate with like-minded professionals who share a vision for pushing boundaries together
 
@@ -17,8 +19,8 @@
 <a href="https://www.linkedin.com/in/msaakaash/">![LinkedIn](https://skillicons.dev/icons?i=linkedin)</a>
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=msaakaash&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=msaakaash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=msaakaash&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=msaakaash&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak" />
 <br/>
 
 
