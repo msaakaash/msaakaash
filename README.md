@@ -2,10 +2,11 @@
 <h1 align="center">👋 Hi, I'm Aakaash M S  </h1>
 
 <h2 align="center">💫 About Me</h2>
+<div align="center">
 🚀 An ardent developer with hands-on experience in creating web applications and building machine learning and deep learning models.  
 
 📈 I'm excited to collaborate with like-minded professionals who share a vision for pushing boundaries together
-
+</div>
 
 <h2 align="center">📊GitHub Contributions Graph</h2>
 
