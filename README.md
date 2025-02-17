@@ -48,6 +48,7 @@
   <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
   <img src="https://skillicons.dev/icons?i=gcp" title="GCP"/>
   <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
   <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
