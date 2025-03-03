@@ -20,6 +20,7 @@
   <img src="https://skillicons.dev/icons?i=java" title="Java"/>
   <img src="https://skillicons.dev/icons?i=haskell" title="Haskell"/>
   <img src="https://skillicons.dev/icons?i=go" title="Go"/>
+  <img src="https://skillicons.dev/icons?i=scala" title="Scala"/>
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter"/>
   <img src="https://skillicons.dev/icons?i=dart" title="Dart"/>
   <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin"/>
@@ -35,6 +36,7 @@
   <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn"/>
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
   <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite"/>
   <img src="https://skillicons.dev/icons?i=nginx" title="NGINX"/>
 
    
