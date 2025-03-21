@@ -3,14 +3,17 @@
 
 <h2 align="center">💫 About Me</h2>
 <div align="center">
-🚀 An ardent developer with hands-on experience in creating web applications and building machine learning and deep learning models.  
+🚀 Versatile developer with expertise in building scalable applications, designing ML/DL models, and
+optimizing cloud solutions on AWS and GCP. Dedicated to leveraging emerging technologies to drive innovation and
+enhance AI-driven solutions.
 
 📈 I'm excited to collaborate with like-minded professionals who share a vision for pushing boundaries together
 </div>
 
+
 <h2 align="center">📊GitHub Contributions Graph</h2>
 
-[![Aakaash M S Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msaakaash&theme=github-dark)](https://github.com/msaakaash)
+[![Aakaash's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msaakaash&theme=github-dark)](https://github.com/msaakaash)
 
 <h2 align="center">Languages and Frameworks</h2>
 <div align="center">
@@ -59,6 +62,7 @@
   <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
   <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio"/>
   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
   <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/>
   <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
   <img src="https://skillicons.dev/icons?i=ubuntu" title="ubuntu"/>
@@ -81,6 +85,7 @@
 <div align="center">
    <a href="mailto:msaakaash@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" title="Email" /></a>
    <a href="https://linkedin.com/in/msaakaash" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" /></a>
+  
 </div>
 
 
