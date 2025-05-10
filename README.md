@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./theRealG/Daddy_is_home.gif" alt="The Real G" width="100%">
+</p>
 <h1 align="center">👋 Hi, I'm Aakaash M S</a></h1>
 <h3 align="center">Data Science • Machine Learning • Cloud Computing • Network Engineering</h3>
 
