@@ -5,7 +5,7 @@
 
 <div>
 <h1 align="center">Hello there, I'm Aakaash M S😎!</a></h1>
-<h3 align="center">Data Science • Machine Learning • Cloud Computing • Network Engineering</h3>
+<h3 align="center">🧠 Data Science | 🤖 Machine Learning | ☁️ Cloud Computing | 🌐 Network Engineering</h3>
 <div>
 
 
