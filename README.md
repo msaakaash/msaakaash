@@ -1,8 +1,12 @@
 <p align="center">
   <img src="./theRealG/Daddy_is_home.gif" alt="The Real G" width="100%">
 </p>
-<h1 align="center">👋 Hi, I'm Aakaash M S</a></h1>
+
+
+<div>
+<h1 align="center">Hello there, I'm Aakaash M S😎!</a></h1>
 <h3 align="center">Data Science • Machine Learning • Cloud Computing • Network Engineering</h3>
+<div>
 
 
 <h2 align="center">💫 About Me</h2>
