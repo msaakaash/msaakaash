@@ -137,7 +137,7 @@
   <tr>
     <td><strong>Portfolio</strong></td>
     <td>
-      <a href="https://net-woad.vercel.app/" target="_blank">
+      <a href="https://aakaashms.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio">
       </a>
     </td>
