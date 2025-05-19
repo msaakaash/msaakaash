@@ -94,10 +94,11 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=msaakaash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="200"/>
   <img src="https://github-readme-streak-stats-two-blush.vercel.app?user=msaakaash&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
 </div>
+
 
 <h2 align="center">GitHub Contributions Graph</h2>
 
