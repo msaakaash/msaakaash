@@ -2,13 +2,14 @@
   Hello there, I'm <a href="https://aakaashms.netlify.app/" target="_blank"><code>Aakaash M S</code>😎</a>
 </h1>
 
-<h3 align="center"> Data Science | Deep Learning | Cloud Computing | Networks</h3>
 
 <h2 align="center">About Me</h2>
 
-- I'm a **```data-driven professional```** passionate about uncovering insights from complex datasets, building scalable **```ML/DL models```**, and deploying **```cloud-native solutions```** on **AWS** and **GCP**.  
-- Previously worked as a **```Software Developer Intern``` at ```Nutmeg Software Solutions```**.  
-- Always eager to collaborate with innovators who strive to *push boundaries* and lead **data-centric transformations**.
+- I'm a **`data-driven professional`** passionate about uncovering insights from complex datasets, building scalable **`ML/DL models`**, and deploying **`cloud-native solutions`** on **AWS** and **GCP**.
+- **Interests:** Data Science, Data Analysis, Deep Learning and Cloud Computing.
+- Previously worked as a **`Software Developer Intern` at `Nutmeg Software Solutions`**.  
+- Check out my **[```portfolio```](https://aakaashms.netlify.app/)** to explore my projects and experience in greater detail.  
+- Always eager to collaborate with innovators who strive to *push boundaries* and lead **```data-centric transformations```**.
 
 
 <h2 align="center">Tech Stack and Tools</h2>
