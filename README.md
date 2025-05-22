@@ -1,12 +1,15 @@
+<h1 align="center">
+  Hello there, I'm <a href="https://aakaashms.netlify.app/" target="_blank"><code>Aakaash M S</code>😎</a>
+</h1>
 
-<h1 align="center">Hello there, I'm Aakaash M S 😎</h1>
 <h3 align="center"> Data Science | Deep Learning | Cloud Computing | Networks</h3>
 
 <h2 align="center">About Me</h2>
 
-
-- **Data-driven professional** passionate about uncovering insights from complex datasets, crafting scalable **ML/DL models**, and deploying **cloud-native solutions** on **AWS** and **GCP**.
+- I'm a **```data-driven professional```** passionate about uncovering insights from complex datasets, building scalable **```ML/DL models```**, and deploying **```cloud-native solutions```** on **AWS** and **GCP**.  
+- Previously worked as a **```Software Developer Intern``` at ```Nutmeg Software Solutions```**.  
 - Always eager to collaborate with innovators who strive to *push boundaries* and lead **data-centric transformations**.
+
 
 <h2 align="center">Tech Stack and Tools</h2>
 
