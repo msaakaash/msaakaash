@@ -9,7 +9,7 @@
 - **Interests:** Data Science, Data Analysis, Deep Learning and Cloud Computing.
 - Previously worked as a **`Software Developer Intern` at `Nutmeg Software Solutions`**.  
 - Check out my **[```portfolio```](https://aakaashms.netlify.app/)** to explore my projects and experience in greater detail.  
-- Always eager to collaborate with innovators who strive to *push boundaries* and lead **```data-centric transformations```**.
+- Always eager to collaborate with innovators who strive to ***push boundaries*** and lead **```data-centric transformations```**.
 
 
 <h2 align="center">Tech Stack and Tools</h2>
@@ -30,7 +30,6 @@
       <img src="https://skillicons.dev/icons?i=haskell" title="Haskell" style="height:45px;" />
       <img src="https://skillicons.dev/icons?i=go" title="Go" style="height:45px;"  />
       <img src="https://skillicons.dev/icons?i=scala" title="Scala" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=html" title="HTML" style="height:45px;" />
       <img src="https://skillicons.dev/icons?i=css" title="CSS" style="height:45px;" />
       <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" style="height:45px;" />
     </td>
@@ -91,8 +90,15 @@
       <img src="https://skillicons.dev/icons?i=bash" title="Bash" style="height:45px;" />
       <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" style="height:45px;" />
       <img src="https://skillicons.dev/icons?i=postman" title="Postman" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse" style="height:45px;" />
       <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" style="height:45px;" />
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding: 8px 12px; font-weight: bold;">Markup Languages</td>
+    <td style="padding: 8px 12px;">
+      <img src="https://skillicons.dev/icons?i=html" title="HTML" style="height:45px;" />
+      <img src="https://skillicons.dev/icons?i=markdown" title="Markdown" style="height:45px;" />
     </td>
   </tr>
 </table>
