@@ -73,7 +73,6 @@
   <td style="padding: 8px 12px;">
     <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" style="height:45px;" />
     <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" style="height:45px;" />
-
   </td>
 </tr>
 
@@ -84,11 +83,11 @@
       <img src="https://skillicons.dev/icons?i=git" title="Git" style="height:45px;" />
       <img src="https://skillicons.dev/icons?i=github" title="GitHub" style="height:45px;" />
       <img src="https://skillicons.dev/icons?i=docker" title="Docker" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" style="height:45px;" />
       <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" style="height:45px;" />
       <img src="https://skillicons.dev/icons?i=linux" title="Linux" style="height:45px;" />
       <img src="https://skillicons.dev/icons?i=bash" title="Bash" style="height:45px;" />
       <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" style="height:45px;" />
+       <img src="https://skillicons.dev/icons?i=npm" title="Node Package Manager" style="height:45px;" />
       <img src="https://skillicons.dev/icons?i=postman" title="Postman" style="height:45px;" />
       <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" style="height:45px;" />
     </td>
