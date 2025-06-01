@@ -5,8 +5,8 @@
 
 <h2 align="center">About Me</h2>
 
-- I'm a **`data-driven professional`** passionate about uncovering insights from complex datasets, building scalable **`ML/DL models`**, and deploying **`cloud-native solutions`** on **AWS** and **GCP**.
-- **Interests:** Data Science, Data Analysis, Deep Learning and Cloud Computing.
+- I am a **`data-driven professional`** expertise in data science, deep learning, and backend development.
+- **Interests:** Data Science, Deep Learning and Backend Developemnt.
 - Previously worked as a **`Software Developer Intern` at `Nutmeg Software Solutions`**.  
 - Check out my **[```portfolio```](https://aakaashms.netlify.app/)** to explore my projects and experience in greater detail.  
 - Always eager to collaborate with innovators who strive to ***push boundaries*** and lead **```data-centric transformations```**.
