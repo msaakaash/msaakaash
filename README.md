@@ -6,7 +6,7 @@
 <h2 align="center">About Me</h2>
 
 - I am a **`data-driven professional`** curious about technology and its intersection with data and code.
-- **Interests:** Data Science, Deep Learning and Backend Developemnt.
+- **Interests:** Data Science, Deep Learning and Full Stack Developemnt.
 - Previously worked as a **`Software Developer Intern` at `Nutmeg Software Solutions`**.  
 - Check out my **[```portfolio```](https://aakaashms.netlify.app/)** to explore my projects and experience in greater detail.  
 - Always eager to collaborate with innovators who strive to ***push boundaries*** together.
