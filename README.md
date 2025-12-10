@@ -108,7 +108,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=msaakaash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="200"/>
+      <img src="https://github-readme-stats-git-master-abhinav-ramakrishnans-projects.vercel.app/api?username=msaakaash&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
     </td>
     <td>
       <img src="https://github-readme-streak-stats-two-blush.vercel.app?user=msaakaash&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
