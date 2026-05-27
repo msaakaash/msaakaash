@@ -1,12 +1,12 @@
 <h1 align="center">
-  Hello there, I'm <a href="https://aakaashms.netlify.app/" target="_blank"><code>Aakaash M S</code>😎</a>
+  Hello there, I'm <a href="https://msaakaash.netlify.app/" target="_blank"><code>Aakaash M S</code>😎</a>
 </h1>
 
 
 <h2 align="center">About Me</h2>
 
 - `Software Engineer Intern` at `Thermo Fisher Scientific`.
-- Check out my **[```portfolio```](https://aakaashms.netlify.app/)** to explore my projects and experience in greater detail.  
+- Check out my **[```portfolio```](https://msaakaash.netlify.app/)** to explore my projects and experience in greater detail.  
 - Always eager to collaborate with innovators who strive to ***push boundaries*** together.
 
 
@@ -152,7 +152,7 @@
   <tr>
     <td><strong>Portfolio</strong></td>
     <td>
-      <a href="https://aakaashms.netlify.app/" target="_blank">
+      <a href="https://msaakaash.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio">
       </a>
     </td>
