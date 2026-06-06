@@ -115,11 +115,12 @@
 </table>
 
 
+  
+<h2 align="center">LeetCode Achievements</h2>
 
-
-<h2 align="center">GitHub Contributions Graph</h2>
-
-[![Aakaash's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msaakaash&theme=github-dark)](https://github.com/msaakaash)
+<p align="center">
+  <img src="./theRealG/leetcodebadges.png" alt="LeetCode Achievements" width="900" />
+</p>
 
   
 <h2 align="center">Connect with Me</h2>
