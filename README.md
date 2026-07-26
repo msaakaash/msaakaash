@@ -5,7 +5,7 @@
 
 <h2 align="center">About Me</h2>
 
-- `Software Engineer Intern` at `Thermo Fisher Scientific`.
+- `Software Engineer 1` at `Thermo Fisher Scientific`.
 - Check out my **[```portfolio```](https://msaakaash.netlify.app/)** to explore my projects and experience in greater detail.  
 - Always eager to collaborate with innovators who strive to ***push boundaries*** together.
 
