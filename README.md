@@ -1,8 +1,8 @@
-<h1 align="center">
-  Hello there, I'm <a href="https://msaakaash.netlify.app/" target="_blank">Aakaash M S</a>
-</h1>
-
-
+<p align="center">
+  <a href="https://msaakaash.netlify.app/">
+    <img src="./theRealG/Aakaash-mark-0.png" alt="Aakaash M S" width="100%" />
+  </a>
+</p>
 <h2 align="center">About Me</h2>
 
 <div align="center">
