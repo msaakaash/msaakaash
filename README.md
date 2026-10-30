@@ -1,104 +1,134 @@
 <h1 align="center">
-  Hello there, I'm <a href="https://msaakaash.netlify.app/" target="_blank"><code>Aakaash M S</code>😎</a>
+  Hello there, I'm <a href="https://msaakaash.netlify.app/" target="_blank">Aakaash M S</a>
 </h1>
 
 
 <h2 align="center">About Me</h2>
 
-- `Software Engineer 1` at `Thermo Fisher Scientific`.
-- Check out my **[```portfolio```](https://msaakaash.netlify.app/)** to explore my projects and experience in greater detail.  
-- Always eager to collaborate with innovators who strive to ***push boundaries*** together.
+<div align="center">
 
+`Software Engineer 1` @ **Thermo Fisher Scientific**  
+Explore my **[portfolio](https://msaakaash.netlify.app/)** for projects & experience.  
 
-<h2 align="center">Tech Stack and Tools</h2>
+</div>
 
-<table align="center" style="text-align:center; border-collapse: collapse;">
-  <tr>
-    <th style="padding: 8px 12px;">Category</th>
-    <th style="padding: 8px 12px;">Technologies</th>
-  </tr>
+<h2 align="center">Tech Stack & Technologies</h2>
 
-  <tr>
-    <td style="padding: 8px 12px; font-weight: bold;">Programming</td>
-    <td style="padding: 8px 12px;">
-      <img src="https://skillicons.dev/icons?i=c" title="C" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=cpp" title="C++" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=python" title="Python" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=java" title="Java" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=haskell" title="Haskell" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=go" title="Go" style="height:45px;"  />
-      <img src="https://skillicons.dev/icons?i=scala" title="Scala" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=css" title="CSS" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" style="height:45px;" />
-    </td>
-  </tr>
-
-  <tr>
-    <td style="padding: 8px 12px; font-weight: bold;">Frameworks and Libraries</td>
-    <td style="padding: 8px 12px;">
-      <img src="https://skillicons.dev/icons?i=react" title="React" style="height:45px;"  />
-      <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=express" title="Express" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=vite" title="Vite" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn" style="height:45px;" />
-    </td>
-  </tr>
-
-  <tr>
-    <td style="padding: 8px 12px; font-weight: bold;">Databases and Cloud Storage</td>
-    <td style="padding: 8px 12px;">
-      <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=dynamodb" title="DynamoDB" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=gcp" title="GCP Storage" style="height:45px;" />
-    </td>
-  </tr>
-
-
-  <tr>
-    <td style="padding: 8px 12px; font-weight: bold;">Cloud Technologies</td>
-    <td style="padding: 8px 12px;">
-      <img src="https://skillicons.dev/icons?i=aws" title="AWS" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=gcp" title="GCP" style="height:45px;" />
-       <img src="https://skillicons.dev/icons?i=azure" title="AZURE" style="height:45px;" />
-    </td>
-  </tr>
-  <tr>
-  <td style="padding: 8px 12px; font-weight: bold;">Hosting and Deployment</td>
-  <td style="padding: 8px 12px;">
-    <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" style="height:45px;" />
-    <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" style="height:45px;" />
-  </td>
+<table align="center">
+<tr>
+<th align="left" width="25%">Category</th>
+<th align="left">Technologies</th>
 </tr>
 
+<tr>
+<td><b>Programming Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/C-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/C++-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Java-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Haskell-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Go-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-252936?style=flat-square"/>
+</td>
+</tr>
 
-  <tr>
-    <td style="padding: 8px 12px; font-weight: bold;">Tools</td>
-    <td style="padding: 8px 12px;">
-      <img src="https://skillicons.dev/icons?i=git" title="Git" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=github" title="GitHub" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=docker" title="Docker" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=linux" title="Linux" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=bash" title="Bash" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" style="height:45px;" />
-       <img src="https://skillicons.dev/icons?i=npm" title="Node Package Manager" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=postman" title="Postman" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" style="height:45px;" />
-    </td>
-  </tr>
+<tr>
+<td><b>Frameworks & Libraries</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Express.js-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vite-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/NestJS-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorFlow-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Temporal-252936?style=flat-square"/>
+</td>
+</tr>
 
-  <tr>
-    <td style="padding: 8px 12px; font-weight: bold;">Markup Languages</td>
-    <td style="padding: 8px 12px;">
-      <img src="https://skillicons.dev/icons?i=html" title="HTML" style="height:45px;" />
-      <img src="https://skillicons.dev/icons?i=markdown" title="Markdown" style="height:45px;" />
-    </td>
-  </tr>
+<tr>
+<td><b>Agentic AI & Frameworks</b></td>
+<td>
+<img src="https://img.shields.io/badge/Deep_Agents-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangFuse-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pydantic_AI-252936?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Databases & Data Modeling</b></td>
+<td>
+<img src="https://img.shields.io/badge/MySQL-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Redis-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Neo4j-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ontology_Engineering-252936?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Cloud Technologies</b></td>
+<td>
+<img src="https://img.shields.io/badge/AWS-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Google_Cloud-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-252936?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Hosting & Deployment</b></td>
+<td>
+<img src="https://img.shields.io/badge/Vercel-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Netlify-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Kubernetes-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Helm-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-252936?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Developer Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Anaconda-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Linux-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bash-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Android_Studio-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/npm-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Postman-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/VS_Code-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI_Codex-252936?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Markup & Documentation</b></td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/CSS3-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Markdown-252936?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Engineering Practices</b></td>
+<td>
+<img src="https://img.shields.io/badge/Agile-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Spec--Driven_Development-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Domain--Driven_Design_(DDD)-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Behavior--Driven_Development_(BDD)-252936?style=flat-square"/>
+</td>
+</tr>
+
 </table>
+
 
 
 <h2 align="center">GitHub Stats</h2>
