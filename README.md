@@ -53,6 +53,7 @@ Explore my **[portfolio](https://msaakaash.netlify.app/)** for projects & experi
 <td><b>Agentic AI & Frameworks</b></td>
 <td>
 <img src="https://img.shields.io/badge/Deep_Agents-252936?style=flat-square"/>
+<img src="https://img.shields.io/badge/Google_ADK-252936?style=flat-square"/>
 <img src="https://img.shields.io/badge/LangChain-252936?style=flat-square"/>
 <img src="https://img.shields.io/badge/LangFuse-252936?style=flat-square"/>
 <img src="https://img.shields.io/badge/Pydantic_AI-252936?style=flat-square"/>
@@ -129,27 +130,28 @@ Explore my **[portfolio](https://msaakaash.netlify.app/)** for projects & experi
 
 </table>
 
-
-
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">GitHub & LeetCode Stats</h2>
 
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats-git-master-abhinav-ramakrishnans-projects.vercel.app/api?username=msaakaash&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats-git-master-abhinav-ramakrishnans-projects.vercel.app/api?username=msaakaash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://leetcard.jacoblin.cool/ms_aakaash?theme=dark&hide=heatmap"
+        alt="LeetCode Stats"
+        width="100%"
+      />
     </td>
   </tr>
 </table>
 
 
-  
-<h2 align="center">LeetCode Achievements</h2>
-
-<p align="center">
-  <img src="./theRealG/leetcodebadges.png" alt="LeetCode Achievements" width="900" />
-</p>
-
-  
 <h2 align="center">Connect with Me</h2>
 
 <table align="center">
