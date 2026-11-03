@@ -138,9 +138,6 @@ Explore my **[portfolio](https://msaakaash.netlify.app/)** for projects & experi
     <td>
       <img src="https://github-readme-stats-git-master-abhinav-ramakrishnans-projects.vercel.app/api?username=msaakaash&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats-two-blush.vercel.app?user=msaakaash&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
-    </td>
   </tr>
 </table>
 
